@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "473968846437",
+    "firebase_url": "https://serbae-22b76-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "serbae-22b76",
+    "storage_bucket": "serbae-22b76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473968846437:android:48b2e11277688c8f16c88c",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473968846437-5vgebp8j517qvkta0lm6jqepb0s7ad77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnACVYFK-JmIJECe02gcx_0Qce19othBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473968846437-5vgebp8j517qvkta0lm6jqepb0s7ad77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
